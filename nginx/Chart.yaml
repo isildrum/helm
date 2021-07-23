@@ -1,0 +1,10 @@
+apiVersion: v1
+name: Nginx 
+description: Install an Nginx deployment
+keywords:
+- nginx
+- alpine 
+version: 1.0.0
+maintainers:
+- name: issildur 
+  email: issildur@xyz.com
