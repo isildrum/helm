@@ -1,11 +1,11 @@
 namespace:
-  name: prod
+  name: prodt
  
 image:
   repository: nginx 
   tag: 1.17.0
 
-replicaCount: 1
+replicaCount: 2
 
 service:
   port: 80
